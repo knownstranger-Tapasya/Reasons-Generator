@@ -10,7 +10,8 @@ This project is a simple web application that displays random reasons to stay al
 
 ## Preview
 
-Click here to get a demo:
+Click here to give it a look! :[Live Demo](https://knownstranger-tapasya.github.io/Reasons-Generator/)
+
 
 ## Getting Started
 
