@@ -44,7 +44,7 @@ You can simply double-click on index.html to open it in your default web browser
 
 3. **getRandomReason function**
    
- Function is named getRandomReason and returns a random object from the reason array
+   Function is named getRandomReason and returns a random object from the reason array
  
 
 4. **printReason function**
@@ -54,7 +54,8 @@ You can simply double-click on index.html to open it in your default web browser
 
    
 5. **Code comments**
- Comments are included in the code for better understanding.
+   
+   Comments are included in the code for better understanding.
 
 
 # Usage
