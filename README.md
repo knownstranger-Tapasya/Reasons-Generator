@@ -33,8 +33,8 @@ You can simply double-click on index.html to open it in your default web browser
 # Contents 
 
 1. **Create Array of Objects**
-   -Array of objects is named quotes
-   -Array contains at least 5 quote objects
+- Array of objects is named quotes
+- Array contains at least 5 quote objects
 
    
 2. **Reason Object**
@@ -49,8 +49,8 @@ You can simply double-click on index.html to open it in your default web browser
 
 4. **printReason function**
 
-   -Function named printReason calls the randomReason function
-   -Function prints the reason to the page using the template supplied in the project instructions
+- Function named printReason calls the randomReason function
+- Function prints the reason to the page using the template supplied in the project instructions
 
    
 5. **Code comments**
@@ -59,8 +59,8 @@ You can simply double-click on index.html to open it in your default web browser
 
 # Usage
 
-  -Click the "Show another reason" button to display a new random reason to stay alive.
-  -Enjoy the uplifting messages and share them with others who may benefit from them.
+- Click the "Show another reason" button to display a new random reason to stay alive.
+- Enjoy the uplifting messages and share them with others who may benefit from them.
 
 # Contributing
 If you'd like to contribute to this project, feel free to submit pull requests or raise issues on the GitHub repository.
@@ -68,56 +68,7 @@ If you'd like to contribute to this project, feel free to submit pull requests o
 # License
 This project is licensed under the MIT License.
 
-Certainly! Here's a README template for your "Reasons to Stay Alive" project:
 
-```markdown
-# Reasons to Stay Alive
-
-This project is a simple web application that displays random reasons to stay alive. It aims to provide encouragement and positivity to users by presenting various uplifting messages.
-
-## Features
-
-- Displays random reasons to stay alive from a predefined list
-- Clicking the "Show another reason" button generates a new random reason
-- Reasons are displayed with an optional citation and year
-
-## Preview
-
-[Add a screenshot or gif of your app here]
-
-## Getting Started
-
-These instructions will help you set up the project on your local machine for development and testing purposes.
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/reasons-to-stay-alive.git
-   ```
-
-2. **Open the project directory:**
-
-   ```bash
-   cd reasons-to-stay-alive
-   ```
-
-3. **Open index.html in your web browser:** 
-
-   You can simply double-click on `index.html` to open it in your default web browser.
-
-## Usage
-
-- Click the "Show another reason" button to display a new random reason to stay alive.
-- Enjoy the uplifting messages and share them with others who may benefit from them.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to submit pull requests or raise issues on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
 
 Feel free to customize it further to suit your project's specific details and requirements!
 
